@@ -33,6 +33,18 @@ review.
 Implementation
 --------------
 
+ - Convert repositories to Git with appropriate username handling
+ - Add access to repo for current developers when requested (this also
+   gives a chance to clean up the dev list); we work things the SVN
+   way to start with
+ - Add GitHub trac plugin
+ - Setup commit mailing list on GitHub
+ - Provide instructions on how to get hold of source via SVN
+ - Point to good Git documentation (generate GitWash + existing docs
+   on projects.scipy.org + tutorials elsewhere)
+ - Update repository links in several places (docs, webapp, webpage,
+   trac, launchpad, etc.)
+
 Timeline
 --------
 
